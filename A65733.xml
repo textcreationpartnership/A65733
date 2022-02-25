@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A visitation of heavenly love unto the seed of Jacob yet in captivity ... by ... D.W.</title>
+            <author>D. W. (Dorothy White)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65733</idno>
+            <idno type="STC">Wing W1759</idno>
+            <idno type="STC">ESTC R22565</idno>
+            <idno type="EEBO-CITATION">12124826</idno>
+            <idno type="OCLC">ocm 12124826</idno>
+            <idno type="VID">54545</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65733)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54545)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 907:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A visitation of heavenly love unto the seed of Jacob yet in captivity ... by ... D.W.</title>
+                  <author>D. W. (Dorothy White)</author>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54545:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb facs="tcp:54545:1"/>
+            <!-- PDF PAGE 25 -->
+            <p>A VISITATION OF Heavenly Love <hi>Unto the SEED of</hi> JACOB YET IN Captivity;</p>
+            <p>To whom the Love of the Lord is, who is gathering, and will gather it, for it be<g ref="char:EOLhyphen"/>longs unto Him.</p>
+            <p>By one who feeleth the Springs of Life opened, from which this is given forth, D. W.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon,</hi> at the <hi>Black-Spread-Eagle</hi> and <hi>Wind-mill in Martin l'Grand,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:54545:2"/>
+            <!-- PDF PAGE 26 -->
+            <pb n="1" facs="tcp:54545:2"/>
+            <!-- PDF PAGE 26 -->
+            <head>
+               <hi>A VISITATION OF Heavenly Love UNTO</hi> The <hi>SEED</hi> of <hi>JACOB</hi> yet in <hi>Captivity;</hi> to whom the Love of the Lord is, who is Gathering, and will Gather it, for it belongs unto Him.</head>
+            <p>THe Shout of a <hi>King</hi> is gone forth out of his holy Mountain, and the voyce of a <hi>Mighty Prophet</hi> is de<g ref="char:EOLhyphen"/>ſcending through the earth, whoſe voyce is as a mighty Thunder, Sounding forth the Day of the Lord God which is at hand; and the voyce of the terrible God is heard in his Holy Mountaine, at the ſound of which, the inhabitants of the earth Fear and Tremble, for the word of the Lord God is quick and powerful, and this deſcends with a voyce of terror to the wicked, and this ſpeaketh not peace to the ungodly, but the voyce of our beloved is terrible unto the unrighteous part.</p>
+            <p>And in that day wherein God appeareth firſt, is a day of bitter Lamentation; and this all men muſt know, before they know him that bringeth Salvation; for as the light<g ref="char:EOLhyphen"/>ning cometh out of the <hi>Eaſt,</hi> and ſhineth to the <hi>Weſt,</hi> even ſo is the coming of the Son of Man in this the day of his Power; whoſe coming is already known, who is come to
+<pb n="2" facs="tcp:54545:3"/>
+               <!-- PDF PAGE 27 -->Judgement, and to Judge both the <hi>Quick</hi> and the <hi>Dead,</hi> and to Raiſe to Life again, that which hath been Dead; for Death hath reigned over all men from <hi>Adam</hi> until <hi>Moſes,</hi> and <hi>Moſes</hi> ſerved God, and he was a Servant, and yet a Prophet, and he Propheſied, and he talk't with God in the Holy Mount that burned with fire, out of which fire God Spoke; And he that dwelleth in Everlaſting Burn<g ref="char:EOLhyphen"/>ings, hath now revealed his Will by his own Son, that he hath manifeſted in his people; for now God hath reveal<g ref="char:EOLhyphen"/>ed his Son in theſe laſt dayes, as in Generations paſt; and he that Revealeth the Will of the Father, dwelleth in him, and the fulneſs of the Father dwelleth in the Son; <hi>And he that hath the Son, hath the Father alſo:</hi> And this is he that hath brought Salvation by his own Arm of Power; and this is he that came down from Above, which is the the Living Bread of Life, the Living Word, by which the Heavens were Created, and the Earth was Formed, the Word became Fleſh, and it dwelt in the Sons of Men; the Word that quickeneth, and giveth life into the Soul, the living Vertue that God Breatheth forth upon his own be<g ref="char:EOLhyphen"/>gotten: The Living Nouriſhment that deſcendes down dayly, is only that which giveth Life, the Word of Life, that Nouriſheth up unto Eternal Life.</p>
+            <p>And ſo all are to come to the Word of Life in themſelves, the Word that begetteth again out of Tranſgreſſion, which Word leadeth again unto the Father, and Reneweth all that do Believe, into his Heavenly Image, and Divine na<g ref="char:EOLhyphen"/>ture of Love, as before the World began; for God is now bringing forth his own Likeneſs, and his own Image, in his Sons and Daughters; and he is Creating a New in Chriſt Jeſus, all that do believe.</p>
+            <p>And ſo that which was before the World began, God is bringing forth, and this muſt indure for ever, when the world ſhall be no more; and ſo to the end of the world all muſt come to that which was in the beginning; he is the Beginning and the End; the Firſt and the Laſt.</p>
+            <p>And ſo the end of all things is at hand; and all muſt come to know an end of the firſt Covenant which was
+<pb n="5" facs="tcp:54545:3"/>
+               <!-- PDF PAGE 27 -->made with Hell and Death, which Chriſt, the everlaſting Covenant of Life, and of Light, is come to break and and make void; and he was given for a Light unto the Gentiles, and to be Gods Salvation unto the ends of the Earth; and ſo he that believeth in the Covenant of Life, is lead again unto God</p>
+            <p>This is the acceptable Day of the Lord God, wherein he is come to gather together his Remnant, and to ſeek the loſt Sheep of the Houſe of <hi>Iſrael;</hi> and this is to all, who are yet ſcattered upon the barren Mountaines, who are ſeeking reſt; the Lord God of Heaven, and of Earth is calling out of his holy Mountains, and the Trumpet of the Lord God is ſounding, to gather the Nations together, that they may come in again unto the Shepheard of <hi>Iſrael;</hi> who feedeth his Sheep himſelf with indurable bread of life, who watereth them with the Rivers of his pleaſure, who hath ſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Fountain open, whoſe Streams are as clear as Chriſtall, and out of the Throne of God the do pro<g ref="char:EOLhyphen"/>ceed: So all come to the Fountain of Life, the Lord God is now opening freely, and is giving abundantly of his Heavenly Treaſure, and he is filling of his Veſſells with new Wine, and he is pouring forth of his Spirit upon his Sons and Daughters: and this is the day of the Lord God wherein he is fulfilling his promiſe, and many can ſeal unto it; for this is the glorious day wherein the Lord God hath now appeared in excellent brightneſs, as the breaking forth of the morning, even ſo is the Lord God appearing; at whoſe appearance, the Clouds of the night fly, for the Kingdome of God is revealing; which Kingdom conſiſteth in righteouſneſs, and in peace and Joy in the holy Ghoſt: For Life and Immortallity is brought to Light, through the Goſpel which hath been preached, and glad tidings is come upon the Mountaines of <hi>Iſrael,</hi> and an Alarm is ſounded out of <hi>Sion,</hi> the holy City, the City of the living God, new <hi>Hieruſalem</hi> is come down from Heaven, and all Nati<g ref="char:EOLhyphen"/>ons are flowing unto Her, and into the Lords Holy Mountain many muſt be gathered, for the Mountain of the Lord ſhall be called the Mountain of Holineſs, in which he will dwell for
+<pb n="4" facs="tcp:54545:4"/>
+               <!-- PDF PAGE 28 -->ever, and upon Mount <hi>Sion</hi> our King ſhall reign, and of his Government there ſhall be no end; and this is the Name they ſhall call him, <hi>The Lord our righteouſneſſe.</hi>
+            </p>
+            <p>For this is the great Day of the Lord God, wherein he is come near unto Judgement, and to gather together all Nations on the face of the whole Earth, and to plead with them by the Sword of his Power; and all muſt know the Sword of the Lord God, to make a ſeparation in their own particulars; they muſt know the Word that divideth between the clean and the unclean: For verily, there is no coming to eat of the fruit of the Tree of Life, but as all come to feel the Sword of the Lord God to paſſe through their own particulars; for the Sword is placed to keep the way of the Tree of Life, ſo that none can come at it, but ſuch as paſſe through death; and ſo there is a paſ<g ref="char:EOLhyphen"/>ſage through Death unto Life; and ſo bleſſed are all they that Dye in the Lord, that have a part in the firſt Reſur<g ref="char:EOLhyphen"/>rection, on whom the ſecond death hath no power; there is no Condemnation to thoſe who are in Chriſt Jeſus, who walk not after the fleſh, but after the Spirit; ſo he that is crucified with Chriſt, muſt raign with him in glory: ſo all muſt come to that eternall power that crucifieth the deeds of the Body, that mortifieth the Corruptions; for the fire of the Lord God muſt paſſe through the earth, to burn up all Stubble, and Bryars, and Brambles that have grown there; for the Earth muſt be diſſolved by fire, and the old Heavens muſt paſſe away with a great noiſe, and the Cup of Trembling muſt be Drunken, and the Cup of aſtoniſh<g ref="char:EOLhyphen"/>ment muſt be received from the hand of the Lord God; for he will pour out his anger upon his Enemies, and all that which letteth, he will take it out of the way; for the Lord God is come to remove the Mountains, and the Hills trem<g ref="char:EOLhyphen"/>ble before him, and the Sword of his Power is in his hand, and he is come to plead with the Nations: And thus ſaith the Lord of Hoſt, the Mighty and Terrible God, I am riding ſwiftly to Battle. I am come to overturn all lofty Mountaines, and to lay low all High Places, and to gather together all Potſherds of the Earth, and to daſh them one
+<pb n="5" facs="tcp:54545:4"/>
+               <!-- PDF PAGE 28 -->againſt another; for the Decree of God is gone forth a<g ref="char:EOLhyphen"/>gainſt this Generation, and the Controverſie of the Lord is againſt them, and another overturning is at hand, the Lord of Hoſt hath ſpoken it, and it ſhall come to paſſe in the Lords Seaſon: For the Lord hath decreed to ſhake terri<g ref="char:EOLhyphen"/>bly the Earth, that that which cannot be ſhaken may raign on the top of all: and this is the Day of the Lord God, in which he is come to Rule in the King<g ref="char:EOLhyphen"/>domes of Men: For Kingdomes ſhall riſe againſt King<g ref="char:EOLhyphen"/>domes, and Nation againſt Nation; and there ſhall be Wars and Rumours of Wars in the Earth; mark, in the Earth: All muſt come to know this, for the war<g ref="char:EOLhyphen"/>fare of the Lamb is begun, and <hi>Michaell</hi> our Prince is Warring with the Dragon and his Power, and he in Heaven, and he that hath an eare to heare, let him heare: For the Dragon muſt be caſt into the Earth; then woe unto the Earth, and the Sea: For the Devill is come down, which rageth exceedingly, be<g ref="char:EOLhyphen"/>cauſe he knoweth he hath but a ſhort time; for after he is thrown out of Heaven into the Earth, and the Sea, then he hath but a ſhort time: And then the Dragon throwes out his Floods after the Man-Child; and the Sea rageth, and the earth is troubled, and there is woe upon the earth; and this muſt be known in that day, when the Lord leadeth <hi>Iſrael</hi> out of <hi>Egypt,</hi> unto the Land of Reſt, <hi>Canaan,</hi> that bleſſed Land which floweth with milk and honey, the Lord God is bringing of many thither: And he is gathering of a Remnant from all Countries, and the ſound of the glorious Goſpel of Chriſt hath reached throughout the Earth; at the ſound of which all Nations are gathering together, and the Voyce of the Living God is gone forth out of his holy Mountain, by which he hath called to all on the face of the whole Earth to come again, and return into the Fathers houſe; and now is the Prodigall ſaying, <hi>I will return in again into my Fa<g ref="char:EOLhyphen"/>thers houſe:</hi> For behold, the hired Servants hath bread e<g ref="char:EOLhyphen"/>nough in the Fathers houſe, and all that have been ſcattered, and are ſcattered, and driven out from God, to ſuch,
+<pb facs="tcp:54545:5"/>
+               <!-- PDF PAGE 29 -->I ſay return, return, for this is the day of the Lord God, wherein he is come to ſeek, and to gather his ſcattered Sheep, who are yet upon the barren Mountaines, and he is gathering in again into the holy Mountain where he dwelleth himſelf, and all muſt come to know the habita<g ref="char:EOLhyphen"/>tion where God dwelleth, which is holy, and undefiled; thus is the Living God Purifying his Temples; and he is making a Glorious Situation, a Heavenly Ha<g ref="char:EOLhyphen"/>bitation, and an Everlaſting dwelling place in the Sons and Daughters of Men; for God is now come to dwell in his people, as he hath ſaid, I will dwell in them, and I will walk in them, and a people hath God choſen to dwell in, and this is Gods everlaſting day of loving kindneſs, and of free Salvation; and this day is breaking through the dark cloudy night that hath been over all Nations; the day ſpringeth from on high, to viſit them that ſit in Darkneſs, and in the Region and Shadow of <hi>Death;</hi> for now the Lord God hath Commanded the Light to Shine out of Darkneſs, which Light is breaking through in a more clearer Manifeſtation then it hath in all Ge<g ref="char:EOLhyphen"/>nerations paſt; and the Glorious Lord hath now appeared in more Excellent brightneſs, and more is his Glory ſeen then in the dayes of Old: For as the waters cover the Sea, even ſo the Glory of the Lord covereth the Earth: And this is the begotten of the Father, full of Grace and Truth; its ful, for a full Fountaine the Lord God hath ſet open, out of which floweth Heavenly Treaſures, out of which floweth the Springs of Life, and Salvation; and the Lord is Showring down his Heavenly Dewes upon his Garden, his Paradice; for the Lord God hath again planted his Vineyard upon a high and fruitful Mountaine, as in the beginning; and he is watering of it with the Springs of his Pleaſure, and of the Heavenly Dew he ſendeth down into the low Vallies, whereby the City of God cometh to rejoyce; and Heaven and Earth is fil<g ref="char:EOLhyphen"/>led with the good Treaſure of God; for God is powring in of New Wine into his New veſſells; for God is giving freely and abundantly, unto all that do believe in his Name,
+<pb n="7" facs="tcp:54545:5"/>
+               <!-- PDF PAGE 29 -->
+               <hi>He that believeth in me,</hi> ſaith Chriſt, <hi>In him ſhall be a Well of Water, ſpringing up unto Eternal Life; and out of his Belly ſhall flow Rivers of Living Water:</hi> And this is known in all that do believe. And from the feeling ſenſe of the working Power of God, and from his own Ma<g ref="char:EOLhyphen"/>nifeſtation I do declare the Truth by the Revelation of the Word of Life. And a greater then <hi>Solomon</hi> is come; and God hath Revealed the Son of his Love, the Eternal Power, the Wiſdom of the Father; and this from him is given, by the flowings in of the Power of Life.
+<hi>Given forth for this end to be ſent abroad.</hi>
+            </p>
+            <p>The Powerful, and Eternal Word of the Lord came unto me the 26 day of the 9th month, which word ran through me, which word was as a flame of Fire: and thus ſaith the Lord God, <hi>The holy one of</hi> Iſrael, <hi>the mighty God of</hi> Jacob; for the ſhout of a King is gone through the earth, and the mighty day of the Lord God is come, in which he hath made his Eternal power Manifeſt; and the glorious voice of the Lord hath Preached into the uttermoſt parts of the Earth, and the Revelation of Je<g ref="char:EOLhyphen"/>ſus Chriſt, the power of God is Revealed in ſuch as fear the Lord; and his Secrets are Revealed to them that fear him; and this is the day of the Lord God, where<g ref="char:EOLhyphen"/>in he is come to Reveal his Will in his people; whoſe Will is their Sanctification, and to all that do Believe in the Light of the Lord God, and dwell in it; ſuch know the Sanctifying, and the waſhing by the Blood of Jeſus; and ſuch know the Regenerating, and the renewing by which they are baptiſed into the Death of Chriſt; and ſuch know the Dying, and ſuch know the Baptiſm by the Holy Ghoſt, and by Fire: And this is the Blood of Sprinkling, whereby the Heart cometh to be waſhed, and the Conſcience purged from dead works again to ſerve the Living God.</p>
+            <p>And this is the Baptiſm that all are to come unto, to know the purging, and to purifie by the Spirit of Judgement, and by the Spirit of burning, and this is the Lord bring<g ref="char:EOLhyphen"/>ing many unto; the Living Word, which is quick and pow<g ref="char:EOLhyphen"/>erfull,
+<pb n="8" facs="tcp:54545:6"/>
+               <!-- PDF PAGE 30 -->which is living and eternall; which word worketh, and operateth, and createth a new Heaven, and a new Earth, wherein the Righteouſneſs of God is revealed, and that Living and Eternall Power of God worketh conti<g ref="char:EOLhyphen"/>nually in all who walk in the Light: For the flying Angell is gone forth, having the everlaſting Goſpell to Preach to all that dwell on the Earth, crying with a loud voice, and ſaying, Fear God, and give Glory to his Name, for the hour of his Judgements are come on the Earth. And the Lord God is come not to bring Peace, but a Sword, and the Sword of the Lord <hi>Jehovah</hi> is drawn, to cut down and deſtroy the Man of Sin. And the Lord God is ſetting fire on the earth, to burn up the fruitleſs Branches thereof, and to Conſume the Root and Ground, out of which the evill fruits have been brought forth; and all muſt feel the fire, and the Sword of the Lord God, which is more Sharper then any two edged Sword, and this muſt paſs through the Hearts of all; and this muſt ſeparate between that which is holy, and from that which is not holy: For the Living God is come to ſit as a Refiners Fire, and like Fullers Soap, and he is Purifying and Purging his Temple, that he alone may rule and raign therein; and all that is not like unto God he will burn up, and all mens works are to be tryed by fire; and all that will not indure the fire, God will not five: For the Hour and Day of Great Tribulation is at hand, wherein God will try the Hearts of all, and of his own Dear Children; I ſay the Hour of Tryall is at hand, and bleſſed are they that indureth to the end, the ſame ſhall be ſaved<g ref="char:punc">▪</g> For the Lord will once more ſhake the Kingdoms of the Earth, and that terribly, and not the Earth onely, but the Heavens alſo; and the time of ſhaking is at hand, and the day draweth nigh, wherein all ſhall be ſcattered every one to his own: and then Bleſſed will they be, and Crowned for ever, with Immortallity, and with Life, that dwell in God, that indureth the Tryall, and the Hour of Temptation which muſt come upon all fleſh: And ſuch as indure to the end, God will gather together in that Day, when he bindeth up his Jewells: Then ſhall he ſpare them
+<pb n="9" facs="tcp:54545:6"/>
+               <!-- PDF PAGE 30 -->as a Man ſpareth his onely Son that ſerveth him, and God will Crown his own with Honour and Dominion, in the ſight of all the World: Therefore lift up your Heads all ye that believe, and ſhout for joy, and with one conſent give praiſes to God; and Rejoyce ye Heavens, and all that dwell therein, for a ſhout of a great King is going before his Hoſt, and the Lamb is come to raign in his Eternall power over all the World, and in his great Dominion Hallelujah and everlaſting praiſes, and eternall glory be ſounded forth out of his Holy Mountain, praiſes, praiſes, for ever and ever be unto the Lamb.</p>
+            <closer>
+               <signed>D. W.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
